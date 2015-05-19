@@ -1,9 +1,13 @@
 {
   "name": "copypasta",
-  "title": "copypasta",
+  "title": "Copypasta Web extension",
   "id": "jid1-3f9ZnUCjp71BeA",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "Save web pages to the cloud",
+  "author": "Malaya Zemlya",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.1.1",
+  "icon": "data/images/icon48x48.png",
+  "icon64": "data/images/icon64x64.png",
+  "preferences": [
+  ]
 }
