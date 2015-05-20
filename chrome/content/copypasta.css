@@ -1,0 +1,11 @@
+/**
+ * Global styles file.
+ * It would appear in the browser as chrome://copypasta/content/copypasta.css
+ */
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+@namespace html url("http://www.w3.org/1999/xhtml");
+
+#nav-bar-customization-target {
+    background-color: red;
+    border: 1px solid red;
+}

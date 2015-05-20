@@ -19,3 +19,10 @@ Author: Malaya Zemlya
 2. Navigate to the project directory and run
    > cfx run
 
+## Copyright stuff
+
+Source code is by me, Malaya Zemlya.
+
+Mozilla SDK and it's files are by Mozilla foundation.
+
+Icons are by PixelMixer (http://pixel-mixer.com/)
